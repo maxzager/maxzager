@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Max</h1>
 <h3 align="center">A passionate for the buy-side Quant Developer Candidate.</h3>
 
-- 🌱 I’m currently studying for my Master degree **in AI and Quantum Computing applied to Financial Markets.**
+- 🌱 I’m currently studying for my Master degree **in AI applied to Financial Markets.**
 
 - 🔭 Therefore I’m currently working on **personal projects as a student.**
 
