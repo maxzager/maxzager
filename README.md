@@ -6,7 +6,6 @@
 - 🔭 Therefore I’m currently working on **personal projects as a student.**
 
 - 📫 How to reach me **maxgreminger@hotmail.com**
-- or https://www.linkedin.com/in/zgmaximiliano/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
