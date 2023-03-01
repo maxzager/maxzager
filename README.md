@@ -1,12 +1,12 @@
 
-<h1 align="center">Hi 👋, I'm Max</h1>
-<h3 align="center">A passionate for the buy-side Quant Developer Candidate.</h3>
+<h3 align="center">Hi 👋, I'm Max, just a Quant Developer in progress </h3>
 
 - 🌱 I’m currently studying for my Master degree **in AI applied to Financial Markets.**
 
 - 🔭 Therefore I’m currently working on **personal projects as a student.**
 
 - 📫 How to reach me **maxgreminger@hotmail.com**
+- or https://www.linkedin.com/in/zgmaximiliano/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
