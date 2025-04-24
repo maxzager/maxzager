@@ -1,11 +1,9 @@
 
-<h3 align="center">Hi 👋, I'm Max, just a Quant Developer in progress </h3>
+<h3 align="center">Welcome to my GitHub, I'm Max, and I am about to use this space to introduce myself </h3>
 
-- 🌱 I’m currently studying for my Master degree **in AI applied to Financial Markets.**
-
-- 🔭 Therefore I’m currently working on **personal projects as a student.**
-
-- 📫 How to reach me **maxgreminger@hotmail.com**
+I am Economist with 8 years of hands-on experience across diverse financialmarkets — from Traditional Finance to Crypto/DeFi and AlgorithmicTrading—. 
+I hold a Master’s in Artificial Intelligence applied to Finance, as well as professional licenses as a Trader and Financial Advisor. 
+My background combines deep financial knowledge with technical expertise in Python, Data Science, and quantitative analysis, making me well-positionedat the intersection of markets and technology.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
